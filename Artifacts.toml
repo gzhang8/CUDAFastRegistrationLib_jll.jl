@@ -1,20 +1,20 @@
 [[CUDAFastRegistrationLib]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "81195fa64a6b6756238325fd03717caf53fa2357"
+git-tree-sha1 = "f9585ee00885412e2b328b2ff298f4b32a28db64"
 libc = "glibc"
 os = "linux"
 
     [[CUDAFastRegistrationLib.download]]
-    sha256 = "bcbdd38e65ff937ced94d2df8bde5b1c40cb97ceabae7c1ba4c5916f654530cb"
+    sha256 = "e72dba2cf9c39f5a9c296bccc8b5906d6e8a8f2c8fc3704814a71fb909fb2fc6"
     url = "https://github.com/gzhang8/CUDAFastRegistrationLib_jll.jl/releases/download/CUDAFastRegistrationLib-v0.1.0+0/CUDAFastRegistrationLib.v0.1.0.x86_64-linux-gnu-cxx03.tar.gz"
 [[CUDAFastRegistrationLib]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "09de37f2e95899f8377ee22cbb6b27321c966659"
+git-tree-sha1 = "1e0f7bfe14a8e6f897839bccaaf6fa8c51abf70e"
 libc = "glibc"
 os = "linux"
 
     [[CUDAFastRegistrationLib.download]]
-    sha256 = "bfb32fd3a60d8214942fbb1a90bf11af42c3c8b1e79e4e3c5b80cbf662b82613"
+    sha256 = "2d5e7cdca1c44da35236db19dc38240bb5fdf59f8d51d8d4310b646f09c90ee4"
     url = "https://github.com/gzhang8/CUDAFastRegistrationLib_jll.jl/releases/download/CUDAFastRegistrationLib-v0.1.0+0/CUDAFastRegistrationLib.v0.1.0.x86_64-linux-gnu-cxx11.tar.gz"
